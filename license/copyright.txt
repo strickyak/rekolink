@@ -1,0 +1,15 @@
+Portions of Java code copied from
+https://github.com/ProjectSPAN/android-manet-ptt
+by Henry Strickland (github.com/strickyak)
+according to the terms of the
+GNU GENERAL PUBLIC LICENSE Version 3, 29 June 2007.
+
+New Java code by Henry Strickland (github.com/strickyak)
+can be used under the terms of the
+GNU GENERAL PUBLIC LICENSE Version 3, 29 June 2007.
+
+SPAN - Smart Phone Ad-Hoc Networking project
+Copyright (c) 2012 The MITRE Corporation.
+
+Portions of the code, images, and other resources are
+copyright (c) 2012 Ionut Ursuleanu.
